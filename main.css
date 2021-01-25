@@ -214,6 +214,9 @@ p.enlarge span {
 .yellow a:hover {
   color: aquamarine;
 }
+.w90{
+    width: 90%;
+  }
 @media screen and (max-width: 667px) {
   .card-img-top {
     width: 100%;
@@ -234,4 +237,5 @@ p.enlarge span {
   .yui-gc h4 {
     font-size: 15px;
   }
+  
 }
